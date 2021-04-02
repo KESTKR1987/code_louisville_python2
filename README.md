@@ -16,5 +16,5 @@
     c.	Matplotlib
     d.	Scikit-learn
 # Jupyter Notebook
-  In the main home page, click on the Jupyter Notebook or Lab tab. Go to the folder name and copy the notebook code. This will run your file.
+  In the main home page, click on the Jupyter Notebook or Lab tab. Create a new folder and paste the notebook code. This will run your file.
 
