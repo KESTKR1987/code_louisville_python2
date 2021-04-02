@@ -1,8 +1,8 @@
 # Code Louisville Data Science with Python Project
 
-# The purpose of this project is to explore the ‘DSV Alvin’ submersible dataset and attempt to accurately predict the purpose of its dives using multiple features and the k-NN       machine learning algorithm.
+## The purpose of this project is to explore the ‘DSV Alvin’ submersible dataset and attempt to accurately predict the purpose of its dives using multiple features and the k-NN       machine learning algorithm.
 
-# The dataset was taken from Kaggle at https://www.kaggle.com/akdagmelih/hov-alvin-dives-data
+### The dataset was taken from Kaggle at https://www.kaggle.com/akdagmelih/hov-alvin-dives-data
 
 # Requirements
 1.	Python 3.7 and newer
